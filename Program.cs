@@ -31,6 +31,7 @@ namespace ElevatorProblem
         public void RandomlyDistributePeople(int NumberOfPeople)
         {
             Random r = new Random();
+            this.People = new List<Rider>();
             for (int i = 0; i < NumberOfPeople; i++)
             {
                 var floorStart = r.Next(0, floors);
