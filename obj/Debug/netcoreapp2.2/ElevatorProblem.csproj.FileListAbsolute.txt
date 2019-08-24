@@ -1,0 +1,11 @@
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/ElevatorProblem.deps.json
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/ElevatorProblem.runtimeconfig.json
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/ElevatorProblem.runtimeconfig.dev.json
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/ElevatorProblem.dll
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/ElevatorProblem.pdb
+/home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.csprojAssemblyReference.cache
+/home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.csproj.CoreCompileInputs.cache
+/home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.AssemblyInfoInputs.cache
+/home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.AssemblyInfo.cs
+/home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.dll
+/home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.pdb
