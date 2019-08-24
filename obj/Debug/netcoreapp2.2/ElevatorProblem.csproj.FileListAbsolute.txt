@@ -9,3 +9,6 @@
 /home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.AssemblyInfo.cs
 /home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.dll
 /home/lampi/Projects/ElevatorProblem/obj/Debug/netcoreapp2.2/ElevatorProblem.pdb
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/lampi/Projects/ElevatorProblem/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

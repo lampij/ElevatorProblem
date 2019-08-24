@@ -8,20 +8,10 @@ namespace ElevatorProblem
     {
         static void Main(string[] args)
         {
-            Building b = new Building(10000);
-            b.RandomlyDistributePeople(100);
+            Building b = new Building(100);
+            b.RandomlyDistributePeople(50);
             b.RunElevator();
-            if (b.People.Any(x => x.CurrentFloor != x.DestinationFloor))
-            {
-                throw new Exception("Someone isn't on their right floor!");
-            }
-            RunStatistics(b);
             
-        }
-
-        static void RunStatistics(Building b){
-            Console.WriteLine($"Total Floors Traversed {b.ele.TotalFloorsTraversed}");
-            Console.WriteLine($"Average Wait Time / Rider : {b.People.Average(x => x.TotalSteps)}");
         }
     }
 
@@ -35,7 +25,7 @@ namespace ElevatorProblem
         public Building(int floors)
         {
             this.floors = floors;
-            ele = new Elevator();
+            ele = new Elevator();   
         }
 
         public void RandomlyDistributePeople(int NumberOfPeople)
@@ -49,7 +39,7 @@ namespace ElevatorProblem
                 {
                     floorEnd = r.Next(0, floors);
                 }
-                People.Add(new Rider(r.Next(0, floors), r.Next(0, floors)));
+                People.Add(new Rider(floorStart, floorEnd));
             }
         }
 
